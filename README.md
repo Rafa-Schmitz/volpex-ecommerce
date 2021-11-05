@@ -43,7 +43,7 @@ O e-commerce "Volpex" foi criado por mim, Rafael Schmitz, Arthur Rodrigues, Lari
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/thinhague/PROJETO-SA.git
+git clone https://github.com/rafa-schmitz/volpex-ecommerce.git
 cd PROJETO-SA
 Depois disso é so mexer no projeto.
 ```
