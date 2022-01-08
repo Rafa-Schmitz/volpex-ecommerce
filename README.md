@@ -1,4 +1,7 @@
 # Volpex E-commerce
+
+[Clique aqui e conheça o site!](https://volpex.netlify.app/)
+
 <p align="center">
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
